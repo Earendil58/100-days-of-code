@@ -1,15 +1,50 @@
-/* body {
-    text-align: center;
-    background-color: rgb(233, 215, 207);
-    margin: 50px;
-}
-
 h1 {
-    font-family: 'Oswald';
-    color: rgb(83, 75, 75);
+    font-size: 48px;
+    margin: 24px 0;
 }
 
-p {
-    font-family: 'Fira Sans';
-    color: red;
+/* #description {
+    margin-top: 36px;
 } */
+
+header p {
+    margin-top: 36px;
+}
+
+a {
+    padding: 12px 48px;
+    background-color: rgb(167, 1, 78);
+    color: white;
+    border-radius: 4px;
+    font-size: 24px;
+}
+
+a:hover {
+    background-color: rgb(145, 70, 105);
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+    width: 500px;
+    margin: 36px auto 0 auto;
+    padding: 0;
+}
+
+
+li {
+    margin: 32px;
+    padding: 32px 32px;
+    background-color: rgb(223, 135, 124);
+    border-radius: 6px;
+}
+
+h2 {
+    color: rgb(78, 13, 5);
+    font-family: 'Oswald', 'sans-serif';
+}
+
+main p {
+    margin: 12px;
+    color: rgb(71, 29, 22);
+}
