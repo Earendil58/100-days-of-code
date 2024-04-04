@@ -1,5 +1,5 @@
 body {
-    margin: 50px;
+    margin: 100px;
 }
 
 img {
@@ -10,7 +10,7 @@ img {
 
 h1 {
     font-family: 'Oswald';
-    color: rgb(83, 75, 75);
+    color: rgb(73, 52, 49);
 }
 
 p {
@@ -28,7 +28,11 @@ a:hover {
 }
 
 #todays-challenge {
-    color: rgb(170, 96, 83);
+    color: rgb(73, 52, 49);
     font-weight: bold;
     font-size: 52px;
+}
+
+span {
+    color: rgb(80, 9, 0);
 }
