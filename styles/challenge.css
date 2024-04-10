@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     align-items: center;
     text-align: center;
+    background-color: rgb(243, 233, 255);
 }
 
 
@@ -14,8 +15,8 @@ body {
 }
 
 img {
-    width: 25%;
-
+    width: 32%;
+    margin-bottom: 20px;
 }
 
 #main_section {
@@ -25,6 +26,6 @@ img {
     width: 30%;
 }
 
-#main_section>p {
+#main_section {
     color: rgb(255, 241, 255);
 }
