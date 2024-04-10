@@ -24,8 +24,12 @@ img {
     border-radius: 7px;
     padding: 20px;
     width: 30%;
+    color: rgb(255, 241, 255);
 }
 
-#main_section {
-    color: rgb(255, 241, 255);
+a {
+    background-color: rgb(253, 237, 175);
+    text-decoration: none;
+    border-radius: 3px;
+    padding: 3px;
 }
