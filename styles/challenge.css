@@ -25,6 +25,7 @@ img {
     padding: 20px;
     width: 30%;
     color: rgb(255, 241, 255);
+    width: 40%;
 }
 
 a {
@@ -32,4 +33,9 @@ a {
     text-decoration: none;
     border-radius: 3px;
     padding: 3px;
+    font-weight: bold;
+}
+
+ul {
+    list-style-type: square;
 }
